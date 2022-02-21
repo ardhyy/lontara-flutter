@@ -1,0 +1,4 @@
+#Tue Feb 22 04:52:54 SGT 2022
+base.0=D\:\\KAMPUS\\SEMESTER VII\\Pemrograman Aplikasi Mobile\\lontara\\lontara\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

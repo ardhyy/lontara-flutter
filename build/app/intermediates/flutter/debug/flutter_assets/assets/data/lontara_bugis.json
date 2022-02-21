@@ -1,0 +1,117 @@
+[
+    {
+      "id": 1,
+      "bugis": "ᨀ",
+      "latin": "ka'"
+    },
+    {
+        "id": 2,
+        "bugis": "ᨁ",
+        "latin": "ga"
+    },
+    {
+        "id": 3,
+        "bugis": "ᨂ",
+        "latin": "nga"
+    },
+    {
+        "id": 4,
+        "bugis": "ᨃ",
+        "latin": "ngka"
+    },
+    {
+        "id": 5,
+        "bugis": "ᨄ",
+        "latin": "pa"
+    },
+    {
+        "id": 6,
+        "bugis": "ᨅ",
+        "latin": "ba"
+    },
+    {
+        "id": 7,
+        "bugis": "ᨆ",
+        "latin": "ma"
+    },
+    {
+        "id": 8,
+        "bugis": "ᨇ",
+        "latin": "mpa"
+    },
+    {
+        "id": 9,
+        "bugis": "ᨈ",
+        "latin": "ta"
+    },
+    {
+        "id": 10,
+        "bugis": "ᨉ",
+        "latin": "da"
+    },
+    {
+        "id": 11,
+        "bugis": "ᨊ",
+        "latin": "na"
+    },
+    {
+        "id": 12,
+        "bugis": "ᨋ",
+        "latin": "nra"
+    },
+    {
+        "id": 13,
+        "bugis": "ᨌ",
+        "latin": "ca"
+    },
+    {
+        "id": 14,
+        "bugis": "ᨍ",
+        "latin": "ja"
+    },
+    {
+        "id": 15,
+        "bugis": "ᨎ",
+        "latin": "nya"
+    },
+    {
+        "id": 16,
+        "bugis": "ᨏ",
+        "latin": "nca"
+    },
+    {
+        "id": 17,
+        "bugis": "ᨐ",
+        "latin": "ya"
+    },
+    {
+        "id": 18,
+        "bugis": "ᨑ",
+        "latin": "ra"
+    },
+    {
+        "id": 19,
+        "bugis": "ᨒ",
+        "latin": "la"
+    },
+    {
+        "id": 20,
+        "bugis": "ᨓ",
+        "latin": "wa"
+    },
+    {
+        "id": 21,
+        "bugis": "ᨔ",
+        "latin": "sa"
+    },
+    {
+        "id": 22,
+        "bugis": "ᨕ",
+        "latin": "a"
+    },
+    {
+        "id": 23,
+        "bugis": "ᨖ",
+        "latin": "ha"
+    }
+]

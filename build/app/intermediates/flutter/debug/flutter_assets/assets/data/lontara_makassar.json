@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "mksr": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Mak_ka.png",
+      "latin": "ka'"
+    },
+    {
+        "id": 2,
+        "mksr": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Mak_ga2.png",
+        "latin": "ga"
+    },
+    {
+        "id": 3,
+        "mksr": "https://upload.wikimedia.org/wikipedia/commons/5/51/Mak_nga.png",
+        "latin": "nga"
+    },
+    {
+        "id": 4,
+        "mksr": "https://upload.wikimedia.org/wikipedia/commons/1/16/Mak_pa.png",
+        "latin": "pa"
+    },
+    {
+        "id": 5,
+        "mksr": "https://upload.wikimedia.org/wikipedia/commons/3/34/Mak_ba.png",
+        "latin": "ba"
+    },
+    {
+        "id": 6,
+        "mksr": "https://upload.wikimedia.org/wikipedia/commons/4/42/Mak_ma.png",
+        "latin": "ma"
+    },
+    {
+        "id": 7,
+        "mksr": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Mak_ta.png",
+        "latin": "ta"
+    },
+    {
+        "id": 8,
+        "mksr": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mak_da.png",
+        "latin": "da"
+    },
+    {
+        "id": 9,
+        "mksr": "https://upload.wikimedia.org/wikipedia/commons/5/53/Mak_na.png",
+        "latin": "na"
+    },
+    {
+        "id": 10,
+        "mksr": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Mak_ca.png",
+        "latin": "ca"
+    },
+    {
+        "id": 11,
+        "mksr": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Mak_ja.png",
+        "latin": "ja"
+    },
+    {
+        "id": 15,
+        "mksr": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mak_nya.png",
+        "latin": "nya"
+    },
+    {
+        "id": 16,
+        "mksr": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Mak_ya.png",
+        "latin": "ya"
+    },
+    {
+        "id": 17,
+        "mksr": "https://upload.wikimedia.org/wikipedia/commons/2/27/Mak_ra.png",
+        "latin": "ra"
+    },
+    {
+        "id": 18,
+        "mksr": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Mak_la.png",
+        "latin": "la"
+    },
+    {
+        "id": 19,
+        "mksr": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Mak_wa.png",
+        "latin": "wa"
+    },
+    {
+        "id": 20,
+        "mksr": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Mak_sa.png",
+        "latin": "sa"
+    },
+    {
+        "id": 21,
+        "mksr": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Mak_a.png",
+        "latin": "a"
+    }
+]
